@@ -1,7 +1,7 @@
 
-# Instagram Automation
+# Instagram Automation using Python
 
-# Python Project
+
 
 # Instagram Bot
 - Developed an Instagram automation tool using Python and the Instabot library. 
